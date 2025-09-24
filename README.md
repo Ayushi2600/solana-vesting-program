@@ -76,9 +76,12 @@ A Solana-based Initial Coin Offering (ICO) program with token vesting capabiliti
 
 1. Install Anchor CLI
 2. Clone the repository
-3. Build the program: `anchor build`
-4. Deploy: `anchor deploy`
-5. Run tests: `anchor test`
+3. Build the program:
+```anchor build```
+5. Deploy:
+```anchor deploy```
+7. Run tests:
+```anchor test```
 
 ## Support
 
